@@ -1,3 +1,5 @@
+# Criar pasta data(plans.json , users.example.json , users.json) e test(server.test.js)
+
 # FORMA
 
 Site de acompanhamento com contas locais no servidor e planos individuais de treino e alimentação.

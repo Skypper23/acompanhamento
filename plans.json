@@ -1,0 +1,80 @@
+{
+  "rodrihenriques25@gmail.com": {
+    "revision": "85fce7e6-5f50-4f66-b951-1178124456c7",
+    "days": [
+      {
+        "name": "Fullbody",
+        "exercises": [
+          {
+            "name": "Agachamento",
+            "sets": "2",
+            "reps": "5-9",
+            "rest": "2:30"
+          }
+        ],
+        "meals": [
+          {
+            "name": "massa",
+            "description": "350"
+          }
+        ]
+      },
+      {
+        "name": "Fullbody",
+        "exercises": [],
+        "meals": []
+      },
+      {
+        "name": "",
+        "exercises": [],
+        "meals": []
+      },
+      {
+        "name": "Fullbody",
+        "exercises": [],
+        "meals": [
+          {
+            "name": "Pequeno-almoço",
+            "description": "2 ovos",
+            "calories": 150
+          },
+          {
+            "name": "Lanche da manhã",
+            "description": "1 fatia de pao + 1 ovo",
+            "calories": 180
+          },
+          {
+            "name": "Almoço",
+            "description": "130 massa cru e 130 frango estufado",
+            "calories": 680
+          },
+          {
+            "name": "Lanche da tarde",
+            "description": "1 fatia de pao + 1 ovo",
+            "calories": 180
+          },
+          {
+            "name": "Jantar",
+            "description": "130 massa cru e 130 frango estufado",
+            "calories": 680
+          }
+        ]
+      },
+      {
+        "name": "",
+        "exercises": [],
+        "meals": []
+      },
+      {
+        "name": "",
+        "exercises": [],
+        "meals": []
+      },
+      {
+        "name": "",
+        "exercises": [],
+        "meals": []
+      }
+    ]
+  }
+}

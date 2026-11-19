@@ -1,0 +1,15 @@
+[
+  {
+    "name": "rodrigopaneleiro",
+    "email": "joaottavares54@gmail.com",
+    "passwordHash": "scrypt:4d7bb85075626d5d51c3bf78ab8bf0d4:f25d126526580c427a4d6abdb0dab0fe83a1b7364b0a6ae756e0cca94ad9fb9f8976571937bacb222e6a860a2cbe9ab87dbe4a03e530aa03765a897c1d3413f6",
+    "role": "admin"
+  },
+  {
+    "name": "eduardotreinador",
+    "email": "rodrihenriques25@gmail.com",
+    "passwordHash": "scrypt:96f7c8f06f74e271f819e146604b5a63:7f1e2cb7e5372c65faa6034668b09d355c70554e3a4688bf279e191c1506992900b9a93f3108280a92a252050b25ade38c52a6c2dc7e6c2099aca5a3352778fe",
+    "role": "aluno"
+  }
+  
+]
